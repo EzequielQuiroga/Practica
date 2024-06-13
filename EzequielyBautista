@@ -1,0 +1,36 @@
+   Logearse
+- - - - - - - - - - 
+
+-git config --glonal user.name/mail
+
+
+Iniciar un repositorio
+- - - - - - - - - - - -
+
+-git init 
+
+
+Añadir un origen
+- - - - - - - - -
+-git remote -v
+
+-remove 
+
+-git remote add origin (link)
+
+
+El Guardado
+- - - - - - - -
+-git add 
+
+-git commit -m
+
+-git push
+
+-git branch
+
+
+El status
+- - - - - - - 
+
+-git status 
