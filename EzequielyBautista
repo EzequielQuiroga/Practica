@@ -1,29 +1,33 @@
    Logearse
 - - - - - - - - - - 
 
--git config --glonal user.name/mail
+-git config --global user.name/email (Es para fijarse quien esta logeado/a) 
+ 
+-git config --global user.name/email "Nombre de usuario/Email" (y poniendo tu nombre de usuario y email es para logearse)
 
 
 Iniciar un repositorio
 - - - - - - - - - - - -
 
--git init 
+-git init "Inicia el repositorio"
+
+-git clone "link" (Esto lo que hace es bajar/descargar el repositorio)  
 
 
 Añadir un origen
 - - - - - - - - -
--git remote -v
+-git remote -v 
 
 -remove 
 
--git remote add origin (link)
+-git remote add origin "link" (Sirve para añadir el origen del repositorio)
 
 
 El Guardado
 - - - - - - - -
 -git add 
 
--git commit -m
+-git commit -m "Nombre del archivo"
 
 -git push
 
@@ -33,7 +37,7 @@ El Guardado
 El status
 - - - - - - - 
 
--git status 
+-git status (Muestra el estado del archivo/repositorio, cuando aparece el nombre del comando en ROJO es porque hay cosas que no se guardaron y cuando estan en VERDE es que los cambios ya estan guardados)
 
 
 
@@ -42,4 +46,3 @@ El status
 
 
 
-Woag
